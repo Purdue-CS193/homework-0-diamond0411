@@ -8,8 +8,11 @@
 - Bulleted
 - List
 
-1. Numbered
-2. List
+|              | Math   | CS   | Roblox | History |
+|--------------|--------|------|--------|---------|
+| brain damage | 90     | 100  | 200    | 100     |
+| boredom      | 1000   | 1000 | 0      | 1000    |
+| I love md    | tables | suck | to     | make    |
 
 **Bold** and _Italic_ and `Code` text
 
@@ -19,12 +22,6 @@
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # I love md so much true
-
-|              | Math   | CS   | Roblox | History |
-|--------------|--------|------|--------|---------|
-| brain damage | 90     | 100  | 200    | 100     |
-| boredom      | 1000   | 1000 | 0      | 1000    |
-| I love md    | tables | suck | to     | make    |
 
 ### Jekyll Themes
 
